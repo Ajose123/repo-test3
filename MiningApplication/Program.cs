@@ -1,2 +1,2 @@
 ﻿Console.WriteLine("Hello, World!");
-Console.WriteLine("Testing git with Visual Studio!");
+Console.WriteLine("Testing git with Visual Studio, Hurray!");
