@@ -1,7 +1,7 @@
 # repo-test3
----
 
-Auhthor: `Ajose Adetayo`
+Author: `Ajose Adetayo`
+---
 
 ## Tools
 - C#
